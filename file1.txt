@@ -1,0 +1,2 @@
+1st line is added in local master
+1st line added to branch B1
